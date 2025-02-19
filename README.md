@@ -1,5 +1,5 @@
 # HenOk-<h1 align="center">Hi 👋, I'm Henok Tadesse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Ethiopia</h3>
 <img align="right" alt ="Coding"  width="400" src="https://th.bing.com/th/id/OIP.gReLR6hZjwyBxHmfLN1AVwHaFj?rs=1&pid=ImgDetMain">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henoktadesse445&label=Profile%20views&color=0e75b6&style=flat" alt="henoktadesse445" /> </p>
